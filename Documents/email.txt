@@ -1,0 +1,15 @@
+Title: Chance to participate in a Visualization based User Interaction Study
+
+The Visual Analytics Lab at Georiga Tech is conducting an online study to evaluate the effectiveness of basic visual encodings for user interaction.
+
+Link to the study: http://pistudy.herokuapp.com/
+
+If you decide to take part in this study, you will be asked to interact with a set of visual encodings in the browser. You will be given 10 training questions, followed to a randomized order of 70 questions. During each question, the system will log your interactions. You may stop at any time, for any reason. If you decide to stop, your logs will be discared completely.
+
+Benefits:
+You will be compensated $5 for your time and effort. The study should not take more than 20 minutes. Upon completion, you will be asked to enter your email address to arrange for payment. The top 3 highest scores (based on time and accuracy) will be given a $25 additional prize. These additional prizes will be determined within one month of the conclusion of the study.
+
+If you have any questions about the study, you may contact Dr. Alex Endert at telephone (706) 940-2539 or endert@gatech.edu.
+
+Regards,
+Visual Analytics Lab @GT
